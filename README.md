@@ -19,6 +19,12 @@ It includes beginner-friendly analysis with **Python, Excel, and SQL**.
 Sample output in the `figures/` folder:
 - `top_cuisines.png` → Top 10 cuisines in Bengaluru
 
+## 📝 Mini Report (Key Findings)  
+- **Koramangala** and **Indiranagar** are the most expensive areas to dine out.  
+- **North Indian and Chinese** cuisines dominate Bengaluru’s restaurant scene.  
+- Over **60% of restaurants** support **online ordering**, showing digital adoption.  
+- Restaurants with **higher ratings** tend to have slightly higher costs, showing customers pay for quality.
+
 ## Conclusion
 This project highlights key food patterns in Bengaluru.  
 It demonstrates beginner-level analytics skills while showing practical application of Python, SQL, and Excel.
